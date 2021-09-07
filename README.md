@@ -5,10 +5,6 @@
 
 ----
 
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
-</a>
-
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
