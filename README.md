@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycecss&show_icons=true&theme=radical)
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joycecss)](https://github.com/joycecss/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joycecss)](https://github.com/joycecss/joyce-silva-api-projeto-site)
 
 ----
 
