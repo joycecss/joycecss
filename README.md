@@ -23,5 +23,5 @@
 ---
 
 ## ⭐ Informações sobre mim
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joycecss)]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joycecss)](https://github.com/joycecss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-cristyna-82362a198/)](https://www.linkedin.com/in/joyce-cristyna-82362a198/)
