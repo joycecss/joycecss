@@ -2,7 +2,8 @@
 
 > Sou Dev fullstack.
 
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycecss&show_icons=true&theme=radical)
 ----
 
 ## 🚀 Minhas Skills
